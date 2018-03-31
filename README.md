@@ -24,7 +24,7 @@ In total, the dataset consisted of images belonging to 43 classes. Each class co
 
 A sample from each class is shown in the image below:
 
-![sample of data](.\images\image_samples.png)
+![sample of data](images/image_samples.png)
 
 ## Implementation of the LeNet-5 neural network
 
@@ -62,11 +62,11 @@ The network achieved an accuracy of **93.7% on the validation set** and an accur
 
 The following five traffic signs were pulled from the web and used to test the model:
 
-![alt text](.\extra_signs\50_speed_limit.png)
-![alt text](.\extra_signs\end_of_speed_limit.png)
-![alt text](.\extra_signs\intersection.png)
-![alt text](.\extra_signs\speed_limit_70.png)
-![alt text](.\extra_signs\stop_sign.png)
+![alt text](extra_signs/50_speed_limit.png)
+![alt text](extra_signs/end_of_speed_limit.png)
+![alt text](extra_signs/intersection.png)
+![alt text](extra_signs/speed_limit_70.png)
+![alt text](extra_signs/stop_sign.png)
 
 
 **The model correctly guessed 4 of the 5 traffic signs** as per the below table:
